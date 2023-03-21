@@ -1,8 +1,8 @@
 class Solution {
-    //find the first position of target.....
+    //find the first position of target
     int first_pos(int start , int end , vector<int>& nums , int target)
     {
-        int result = -1;    // make a variable to stroe the index of first occurance.
+        int result = -1;    // make a variable to store the index of first occurance.
         while(start <= end)
         {
             int mid = start + (end - start)/2;  
@@ -19,10 +19,10 @@ class Solution {
         return result;
     }
     
-    //find the last position of target.....
+    //find the last position of target
     int last_pos(int start , int end , vector<int>& nums , int target)
     {
-        int result = -1;    // make a variable to stroe the index of first occurance.
+        int result = -1;    // make a variable to store the index of first occurance.
         while(start <= end) 
         {
             int mid = start + (end - start)/2;
