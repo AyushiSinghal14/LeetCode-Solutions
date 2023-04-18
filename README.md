@@ -1,2 +1,2 @@
-# LeetCode-March-Challenge
+# LeetCode-Monthly-Challenge
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
