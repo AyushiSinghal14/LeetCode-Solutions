@@ -1,23 +1,23 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+    bool canFinish(int Courses, vector<vector<int>>& prereq) {
 
-       unordered_map<int,vector<int>>mpp;//to store cources which require a particular prerequisite
-       unordered_map<int,int>ind; //to hash courses
+       unordered_map<int,vector<int>>mpp;
+       unordered_map<int,int>ind;
        vector<int>ans;
-       queue<int>q; //for BFS
+       queue<int>q;
 
-       int n = prerequisites.size();
+       int n = prereq.size();
 
        for(int i = 0;i<n;++i)
        {
-          mpp[prerequisites[i][1]].push_back(prerequisites[i][0]);
-          ind[prerequisites[i][0]]++; //Cources to be Learned
+          mpp[prereq[i][1]].push_back(prereq[i][0]);
+          ind[prereq[i][0]]++;
        }
     
-       for(int i = 0; i < numCourses; ++i)
+       for(int i = 0; i < Courses; ++i)
        {
-           if(!ind.count(i)) //Couses we have already learned 
+           if(!ind.count(i)) 
            {
               q.push(i);
               ans.push_back(i);
@@ -31,15 +31,15 @@ public:
            for(auto &it : mpp[t])
            {
                ind[it]--; 
-               if(ind[it] == 0) //this course has been learned, as we had all the prerequisites for it
+               if(ind[it] == 0) 
                {
                    ans.push_back(it); 
-                   q.push(it); // it can now be used to unlock furthur courses
+                   q.push(it); 
                }
            }
        }
 
-      if(ans.size() != numCourses) return false; // if not all the courses are completed we return false
+      if(ans.size() != Courses) return false; 
   
       return true;
     }
