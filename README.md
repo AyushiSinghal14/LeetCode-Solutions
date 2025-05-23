@@ -10,10 +10,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2792-neighboring-bitwise-xor](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,4 +48,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Greedy
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Sorting
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
