@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
 |  |
