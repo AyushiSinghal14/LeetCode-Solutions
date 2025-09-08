@@ -67,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyushiSinghal14/LeetCode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 <!---LeetCode Topics End-->
